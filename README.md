@@ -3,9 +3,6 @@
 A responsive shopping catalog built with React + TypeScript.  
 This project was completed as a take-home assignment and focuses on product browsing and cart interactions with clean UI state management.
 
-## Demo
-
-- Loom demo: [React and TypeScript Shopping App Demo](https://www.loom.com/share/2c37edb428b14fe993aa62a6b0b14ae6)
 
 ## Features
 
